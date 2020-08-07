@@ -2,6 +2,6 @@
 
 ```bash
 # install dependencies
-$ lerna bootstrap
+$ npx lerna bootstrap
 
 
