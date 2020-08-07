@@ -1,0 +1,7 @@
+{
+  "name": "@monorepo/ui-components",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Yung Silva <yung@cataline.io>",
+  "license": "MIT"
+}
